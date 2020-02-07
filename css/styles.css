@@ -4,4 +4,23 @@ h1 {
   text-decoration: underline;
   text-align: center;
   color: red;
+
+}
+h2 {
+  font-size: 50px;
+  font-weight: 800;
+  font-family: cursive;
+  text-align: center;
+}
+.sidebar {
+  width: 30%;
+  height: 100px;
+  float: right;
+  color: white;
+}
+.textbox {
+  border: 20px;
+  padding: 20px;
+  margin: 4px;
+  background-color: black;
 }
