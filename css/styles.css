@@ -24,3 +24,12 @@ h2 {
   margin: 4px;
   background-color: black;
 }
+.tour {
+  float: right;
+}
+@media screen and (max-width: 750px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
